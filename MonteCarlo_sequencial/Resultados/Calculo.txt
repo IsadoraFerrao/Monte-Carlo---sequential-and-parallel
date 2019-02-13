@@ -1,0 +1,1 @@
+Resultados/tempo.txt		Media = 25.705757	Desvio Padrao = 3.404330	Desvio Absoluto = 13.243453

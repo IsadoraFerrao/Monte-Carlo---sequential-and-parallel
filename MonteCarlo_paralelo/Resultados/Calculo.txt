@@ -1,0 +1,4 @@
+Resultados/2-tempo.txt		Media = 2.354814	Desvio Padrao = 0.748796	Desvio Absoluto = 31.798514
+Resultados/4-tempo.txt		Media = 8.498618	Desvio Padrao = 0.856503	Desvio Absoluto = 10.078148
+Resultados/8-tempo.txt		Media = 43.333557	Desvio Padrao = 1.693542	Desvio Absoluto = 3.908154
+Resultados/16-tempo.txt		Media = 108.124003	Desvio Padrao = 1.438453	Desvio Absoluto = 1.330374
